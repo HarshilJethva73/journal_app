@@ -43,7 +43,7 @@ class _SplashScreenState extends State<SplashScreen> {
             Text(
               "Memoir",
               style: TextStyle(
-                fontSize: 25,
+                fontSize: 30,
                 fontWeight: FontWeight.bold,
                 color: Color(0xFF333333),
               ),
